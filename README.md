@@ -88,6 +88,10 @@ Na Registrar, o usuário ira encontrar o os campos para inserir seus dados e os 
 
 <img src="https://github.com/user-attachments/assets/55dc2583-221f-4ce2-ae1b-57571035746d" width="260" height="500"/>
 
+# 📲 APK do APP 
+
+<a href="https://github.com/ZiroGl/CadastroApp/blob/main/CadastroApp.apk"> Download APK </a>
+
 # 📄 Licença
 
 [![NPM](https://github.com/ZiroGl/CadastroApp/blob/main/LICENSE)  
